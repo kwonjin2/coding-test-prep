@@ -12,6 +12,7 @@
 
 - 2026-05-29 (금) — 🟡 LC #1 Two Sum (Map 패턴 자력 소환 시험) → [daily/2026-05-22.md](./daily/2026-05-22.md)
 - 2026-06-01 (월) — 🟡 LC #242 Valid Anagram (배열 26 최적화 + 정렬 풀이까지 trade-off 자력 정리) → [daily/2026-05-25.md](./daily/2026-05-25.md)
+- 2026-06-03 (수) — 🟡 BFE #5 debounce (think-aloud → 코드 변환 + BFE Run 자기검증 사이클 자력 시험) → [daily/2026-05-27.md](./daily/2026-05-27.md)
 
 ---
 
@@ -30,7 +31,11 @@
 
 #### Frontend Live
 
-_아직 진행 없음_
+| 유형              | 횟수 | 마지막 풀이 | 최근 Status |
+| ----------------- | ---- | ----------- | ----------- |
+| HOF               | 1    | 2026-05-27  | 🟡          |
+| closure           | 1    | 2026-05-27  | 🟡          |
+| debounce-throttle | 1    | 2026-05-27  | 🟡          |
 
 ---
 
@@ -41,6 +46,7 @@ _아직 진행 없음_
 | 2026-05-22 (금) | 🟡 Two Sum / Map 최적화 못 떠올림 | - | [daily/2026-05-22.md](./daily/2026-05-22.md) |
 | 2026-05-25 (월) | 🟡 Valid Anagram / Map 자력 ✅, 배열 26 최적화에서 막힘 | - | [daily/2026-05-25.md](./daily/2026-05-25.md) |
 | 2026-05-26 (화) | 🟢 Contains Duplicate / Set 자력 ✅, early exit·복잡도 worst case 코칭 | - | [daily/2026-05-26.md](./daily/2026-05-26.md) |
+| 2026-05-27 (수) | - | 🟡 BFE #5 debounce / think-aloud → 코드 변환 갭, BFE Run 자기검증 누락 | [daily/2026-05-27.md](./daily/2026-05-27.md) |
 
 ---
 
