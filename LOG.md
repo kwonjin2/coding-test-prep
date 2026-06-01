@@ -13,6 +13,7 @@
 - 2026-05-29 (금) — 🟡 LC #1 Two Sum (Map 패턴 자력 소환 시험) → [daily/2026-05-22.md](./daily/2026-05-22.md)
 - 2026-06-01 (월) — 🟡 LC #242 Valid Anagram (배열 26 최적화 + 정렬 풀이까지 trade-off 자력 정리) → [daily/2026-05-25.md](./daily/2026-05-25.md)
 - 2026-06-03 (수) — 🟡 BFE #5 debounce (think-aloud → 코드 변환 + BFE Run 자기검증 사이클 자력 시험) → [daily/2026-05-27.md](./daily/2026-05-27.md)
+- 2026-06-04 (목) — 🟢 LC #20 Valid Parentheses (closer→opener 매핑 자력 소환 시험) → [daily/2026-05-28.md](./daily/2026-05-28.md)
 
 ---
 
@@ -27,6 +28,7 @@
 | ------ | ---- | ----------- | ----------- |
 | 문자열 | 1    | 2026-05-25  | 🟡          |
 | 배열   | 2    | 2026-05-26  | 🟢          |
+| 스택   | 1    | 2026-05-28  | 🟢          |
 | 해시   | 3    | 2026-05-26  | 🟢          |
 
 #### Frontend Live
@@ -47,6 +49,7 @@
 | 2026-05-25 (월) | 🟡 Valid Anagram / Map 자력 ✅, 배열 26 최적화에서 막힘 | - | [daily/2026-05-25.md](./daily/2026-05-25.md) |
 | 2026-05-26 (화) | 🟢 Contains Duplicate / Set 자력 ✅, early exit·복잡도 worst case 코칭 | - | [daily/2026-05-26.md](./daily/2026-05-26.md) |
 | 2026-05-27 (수) | - | 🟡 BFE #5 debounce / think-aloud → 코드 변환 갭, BFE Run 자기검증 누락 | [daily/2026-05-27.md](./daily/2026-05-27.md) |
+| 2026-05-28 (목) | 🟢 Valid Parentheses / 스택 자력 ✅, 표준 closer→opener 매핑 미인지 + 엣지케이스 think-aloud 빈약 | - | [daily/2026-05-28.md](./daily/2026-05-28.md) |
 
 ---
 
